@@ -10,7 +10,7 @@ I'm currently diving into web systems. Whether it’s a new programming language
 I’m open to collaborating on projects related to any programming. If you have a cool project or an idea you'd like to work on together, let’s connect!
 
 ## How to Reach Me
-You can reach me via shantijop1234567890@gmail.com. I’m always happy to connect with fellow developers and tech enthusiasts!
+You can reach me via https://victorroxas.vercel.app. I’m always happy to connect with fellow developers and tech enthusiasts!
 
 ## Pronouns
 My pronouns are He/Him.
